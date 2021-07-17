@@ -37,19 +37,22 @@ export default {
       skillset: [
           {
               icon: 'https://cdn.lordicon.com/jqeuwnmb.json',
-              heading: 'Mobile App Development '
+              heading: 'Mobile App Development ',
+              description: 'I have worked with Cross Platform App Development libray such as Flutter and also native Android App development using Android Studios.'
           },
           {
             //   icon: 'https://cdn.lordicon.com//ochimkct.json',
             //   icon: 'https://cdn.lordicon.com//buqfvmsj.json',
               icon:'https://cdn.lordicon.com//qhgmphtg.json',
-              heading: 'Web Development'
+              heading: 'Web Development',
+              description: 'I have a deep understanding of leading web development frameworks such as Angular 2+ and Vue.JS along with HTML, CSS, TypeScript and Javascript. I know my way around these frameworks and libraries and have worked and build enterprise grade web applications.'
           },
           {
             //   icon: 'https://cdn.lordicon.com//sbiheqdr.json',
             //   icon: 'https://cdn.lordicon.com//anihkfxp.json',
               icon: 'https://cdn.lordicon.com//ochimkct.json',
-              heading: 'Backend Development'
+              heading: 'Backend Development',
+              description: 'I have a good knowledge about the Backend technologies such as Coldfusion and Node.JS and have extensively worked on them.. along with this I\'ve also worked with  databases such as SQL and MongoDB.'
           },
         //   {
         //       icon: 'https://cdn.lordicon.com//ybfcwnqv.json',
